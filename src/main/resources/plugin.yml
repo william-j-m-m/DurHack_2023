@@ -1,0 +1,4 @@
+name: durhacktemplateinnit
+version: '${version}'
+main: technology.duck.durhacktemplateinnit.Durhacktemplateinnit
+api-version: '1.20'
