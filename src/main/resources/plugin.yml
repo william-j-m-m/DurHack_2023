@@ -1,4 +1,13 @@
-name: durhacktemplateinnit
+name: durhack
 version: '${version}'
-main: technology.duck.durhacktemplateinnit.Durhacktemplateinnit
+main: technology.duck.durhack.Durhack
 api-version: '1.20'
+
+commands:
+  durhack:
+    description: The durhack command
+    usage: /<command>
+    permission: durhack.durhack
+
+
+depend: [Citizens]
