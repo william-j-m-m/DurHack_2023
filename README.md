@@ -14,9 +14,8 @@ Left - The Tech setup. One Laptop is the Vision Server, the other is the Game Se
 
 
 <p style="text-align: center">
-<b>Click the image below to watch a demo video</b>
-
-[![Demo Video](https://img.youtube.com/vi/5xrsdYBfODg/0.jpg)](https://youtu.be/5xrsdYBfODg?si=L2VoODrBZpT0qs8w)
+<b>Click the image below to watch a demo video</b><br><br>
+<a href="https://youtu.be/5xrsdYBfODg?si=L2VoODrBZpT0qs8w"><img alt="Demo Video Link" src="https://img.youtube.com/vi/5xrsdYBfODg/0.jpg"></a>
 </p>
 
 *The following is our summary from [DevPost](https://devpost.com/software/durcraft-virtual-attendees)*
