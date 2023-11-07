@@ -75,7 +75,7 @@ def doImageRecognition():
         dilation  = cv2.dilate(opening, dilation_kernel, iterations=1)
         # Detect blobs
         keypoints = detector.detect(dilation)
-        # Draw detected blobs as red circles
+        # Draw detected blobs as green circles
         # img_with_keypoints = cv2.drawKeypoints(frame, keypoints, np.array([]), (0, 255, 0), cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
         # Show the image with detected blobs
         # cv2.imshow("Blobs", img_with_keypoints)
