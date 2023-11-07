@@ -11,9 +11,12 @@ See the project summary on [DevPost](https://devpost.com/software/durcraft-virtu
 </p>
 Left - The Tech setup. One Laptop is the Vision Server, the other is the Game Server and is also running the game client.<br><br>
 
-**Click the image below to watch a demo video**
 
+
+<p style="text-align: center">
+<b>Click the image below to watch a demo video</b>
 [![Demo Video](https://img.youtube.com/vi/5xrsdYBfODg/0.jpg)](https://youtu.be/5xrsdYBfODg?si=L2VoODrBZpT0qs8w)
+</p>
 
 *The following is our summary from [DevPost](https://devpost.com/software/durcraft-virtual-attendees)*
 
