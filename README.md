@@ -11,7 +11,7 @@ See the project summary on [DevPost](https://devpost.com/software/durcraft-virtu
 </p>
 Left - The Tech setup. One Laptop is the Vision Server, the other is the Game Server and is also running the game client.<br><br>
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/5xrsdYBfODg?si=YooxFqcUgfewIt7b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Click the image below to watch a demo video**
 
 [![Demo Video](https://img.youtube.com/vi/5xrsdYBfODg/0.jpg)](https://youtu.be/5xrsdYBfODg?si=L2VoODrBZpT0qs8w)
 
